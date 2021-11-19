@@ -14,7 +14,7 @@
 	},
 	"scripts": {
 		"start": "react-scripts start",
-		"build": "cross-env PUBLIC_URL=/color-and-lines/ react-scripts build ",
+		"build": "cross-env PUBLIC_URL=/color-and-lines/build/ react-scripts build ",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",
 		"dev": "vite",
