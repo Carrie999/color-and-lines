@@ -74,7 +74,7 @@ function App() {
          setNum(num+1)
        }}>下一个 </div > */}
 
-       <div className="all">
+       {/* <div className="all">
         {
           COLORS.map((item)=>(<div className="item" >
             <div className="item-up" style={{
@@ -86,7 +86,7 @@ function App() {
           </div>))
         }
           
-       </div> 
+       </div>  */}
       
     </div>
   );
