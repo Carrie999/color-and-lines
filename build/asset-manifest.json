@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/color-and-lines/build/static/css/main.ed53b816.chunk.css",
-    "main.js": "/color-and-lines/build/static/js/main.090520f2.chunk.js",
-    "main.js.map": "/color-and-lines/build/static/js/main.090520f2.chunk.js.map",
+    "main.css": "/color-and-lines/build/static/css/main.d72db23e.chunk.css",
+    "main.js": "/color-and-lines/build/static/js/main.4e1ffb50.chunk.js",
+    "main.js.map": "/color-and-lines/build/static/js/main.4e1ffb50.chunk.js.map",
     "runtime-main.js": "/color-and-lines/build/static/js/runtime-main.6a60d282.js",
     "runtime-main.js.map": "/color-and-lines/build/static/js/runtime-main.6a60d282.js.map",
     "static/js/2.204ce680.chunk.js": "/color-and-lines/build/static/js/2.204ce680.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.74050d98.chunk.js": "/color-and-lines/build/static/js/3.74050d98.chunk.js",
     "static/js/3.74050d98.chunk.js.map": "/color-and-lines/build/static/js/3.74050d98.chunk.js.map",
     "index.html": "/color-and-lines/build/index.html",
-    "static/css/main.ed53b816.chunk.css.map": "/color-and-lines/build/static/css/main.ed53b816.chunk.css.map",
+    "static/css/main.d72db23e.chunk.css.map": "/color-and-lines/build/static/css/main.d72db23e.chunk.css.map",
     "static/js/2.204ce680.chunk.js.LICENSE.txt": "/color-and-lines/build/static/js/2.204ce680.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6a60d282.js",
     "static/js/2.204ce680.chunk.js",
-    "static/css/main.ed53b816.chunk.css",
-    "static/js/main.090520f2.chunk.js"
+    "static/css/main.d72db23e.chunk.css",
+    "static/js/main.4e1ffb50.chunk.js"
   ]
 }

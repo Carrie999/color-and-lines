@@ -41,6 +41,8 @@ const TEXT = [
  // ['#00afd8','#f9c1c4'],
 // ['#41bc00','#ffbd00'],
 // ['#ffc7d3','#8fefe9'], //1
+const ua = navigator.userAgent;
+const isMobile = /Android|webOS|iPhone|iPad|BlackBerry|ucweb|midp|rv:1.2.3.4|windows mobile/i.test(ua);
 
 
 
@@ -55,9 +57,10 @@ function App() {
       }
     }}>
      
-      <div className="wrap">
+      <div className={isMobile?'wrap2':'wrap'}>
         <div className="text" style={{
-            color: COLORS[num][2] === 0 ? 'rgba(0,0,0,0.8)':'rgba(255,255,255,0.8)'
+            color: COLORS[num][2] === 0 ? 'rgba(0,0,0,0.8)':'rgba(255,255,255,0.8)',
+            fontSize:isMobile?'18px':'26px'
             }}>{TEXT[Math.floor(Math.random()*TEXT.length)]}</div>
       </div>  
       
